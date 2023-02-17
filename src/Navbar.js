@@ -56,62 +56,62 @@ const Navbar = () => {
               <div className="offcanvas-body">
                 <ul className="navbar-nav justify-content-end flex-grow-1 pe-3">
                  
-                  <Link className='linku' to='/'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/userid'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                  User id-Pass
                   </li>
                   </Link>
 
-                  <Link className='linku' to='/Category'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/totalservice'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                   Totale Services
                   </li>
                   </Link>
 
-                  <Link className='linku' to='/about'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/childerservice'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                  Childe Sevices
                   </li>
                   </Link>
 
-                  <Link className='linku' to='/offer'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/aboutus'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                   About us
                   </li>
                   </Link>
 
-                  <Link className='linku' to='/team'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/offer'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                   Offer
                   </li>
                   </Link>
 
-                  <Link className='linku' to='/contactus'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/ourteams'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                  Our Teams
                   </li>
                   </Link>
 
-                  <Link className='linku' to='/login'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/refund'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                  Refund 
                   </li>
                   </Link>
-                  <Link className='linku' to='/dash'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/paymentmethode'> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                  Payment Methode
                   </li>
                   </Link>
 
-                 <Link className='linku' to='/' onClick={singout}> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                 <Link className='linku' to='/contactus' > <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                 contact us
                   </li>
                   </Link>
-                  <Link className='linku' to='/' onClick={singout}> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/privecypolicy' > <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
              Privecy Policy
                   </li>
                   </Link>
-                  <Link className='linku' to='/' onClick={singout}> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/tearmcondition' > <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                 tearm & condition
                   </li>
                   </Link>
-                  <Link className='linku' to='/' onClick={singout}> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/footer' > <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
             Footer
                   </li>
                   </Link>
-                  <Link className='linku' to='/' onClick={singout}> <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
+                  <Link className='linku' to='/menues' > <li data-bs-dismiss="offcanvas" className=" linkss nav-item">
                 Add Menues
                   </li>
                   </Link>

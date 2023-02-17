@@ -5,3 +5,12 @@
   height: 50px;
   width: 50px;
 }
+.cont{
+  margin-top: 10px;
+}
+
+.box{
+  text-align: center;
+  margin: 5%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
